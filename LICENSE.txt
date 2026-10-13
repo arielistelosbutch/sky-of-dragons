@@ -1,0 +1,31 @@
+Sky of Dragons
+Copyright (c) 2026 arielistelosbutch. Všechna práva, která nejsou výslovně
+udělena níže, jsou vyhrazena.
+
+Hra (spustitelný soubor SkyOfDragons.exe a vše, co obsahuje – grafika, hudba,
+zvuky, texty a herní obsah) je šířena pod licencí
+
+    Creative Commons Uveďte původ – Neužívejte komerčně – Nezpracovávejte 4.0
+    Mezinárodní (CC BY-NC-ND 4.0)
+    https://creativecommons.org/licenses/by-nc-nd/4.0/deed.cs
+    Plné právní znění: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.cs
+
+Co to znamená v praxi:
+
+  MŮŽETE
+    + hru zdarma stahovat, hrát a dávat dál kamarádům (v nezměněné podobě).
+
+  ZA TĚCHTO PODMÍNEK
+    - Uveďte původ: musí být jasné, že autorem je arielistelosbutch,
+      a přiložen odkaz na tuto licenci.
+    - Neužívejte komerčně: hru ani její části nesmíte prodávat ani na nich
+      vydělávat (placené stahování, reklamy, placené servery apod.).
+    - Nezpracovávejte: hru nesmíte upravovat, předělávat ani z ní šířit
+      odvozená díla (vlastní verze, mody vydávané za originál, převzaté
+      modely/hudbu v jiných hrách).
+
+Zdrojový kód hry není součástí této licence a zůstává chráněn autorským
+právem – bez písemného svolení autora jej nelze kopírovat ani používat.
+
+Hra používá engine Godot (https://godotengine.org), který je šířen pod
+licencí MIT; tato licence se vztahuje pouze na samotný engine.
